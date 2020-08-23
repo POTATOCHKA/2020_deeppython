@@ -1,0 +1,7 @@
+DEBUG:root:connected: ('127.0.0.1', 53717)
+DEBUG:root:connected: ('127.0.0.1', 53719)
+DEBUG:root:https://www.python.org/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.python.org:443
+DEBUG:urllib3.connectionpool:https://www.python.org:443 "GET / HTTP/1.1" 200 48990
+DEBUG:root:valid request
+DEBUG:root:
